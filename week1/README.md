@@ -1,1 +1,4 @@
-
+- introduction
+- cost function
+- gradint descent for linear regression
+- linear algebra review
