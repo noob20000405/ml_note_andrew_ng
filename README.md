@@ -5,3 +5,7 @@
   - cost function
   - gradint descent for linear regression
   - linear algebra review
+- week2
+  - Multivariate Linear Regression
+  - Normal Equation
+  - Mathlab Tutorial
