@@ -9,3 +9,7 @@
   - Multivariate Linear Regression
   - Normal Equation
   - Mathlab Tutorial
+- week3
+  - Classification
+  - Logistic regression
+  - Overfitting
